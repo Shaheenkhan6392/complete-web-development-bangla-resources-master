@@ -1,0 +1,18 @@
+font-family: "Noto Serif", serif;ody{
+
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: hsl(0, 63%, 29%);
+}
+.haif-widt{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.haif-widt img{
+    width: 100%;
+}
